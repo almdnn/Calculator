@@ -39,6 +39,7 @@ button {
 
 button:hover {
     background: blue;
+    cursor: pointer;
 }
 
 .btn-yellow {
